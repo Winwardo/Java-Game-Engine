@@ -2,7 +2,6 @@ package engine;
 
 import engine.classes.Cube;
 import engine.renderer.GraphicsControl;
-//import game.engine.renderer.GraphicsControl;
 
 import org.lwjgl.input.Keyboard;
 import org.lwjgl.input.Mouse;
